@@ -2,11 +2,11 @@
 
 <h1 align="center"> Hello! I'm Shreyash <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-* 🧐  I'm interested in learning more about Machine Learning, Data Science and Full Stack development. 
+* 🧐  Interested in learning more about Machine Learning, Data Science and Full Stack development. 
 * 🤔  Fascinated by the concept of Blockchain and excited for its future.
 * 🎓  Pursuing a Bachelors of Engineering in Computer Engineering. FE GPA 9.43/10.0, SE GPA 9.66/10.0.
-* 💻  Working on creating a portfolio website for myself more projects in the domains of Computer Vision and Web Development.
-* 🤝  I’m looking to collaborate on Python projects in the domains Data Science and Machine Learning.
+* 💻  Working on creating a portfolio website for myself.
+* 🤝  Looking to collaborate on Python projects in the domains of Data Science and Machine Learning.
 * 🌱  Keen to learn more about Psychology & Philosophy.
 
 ## 🚀 Languages and Tools:
