@@ -20,14 +20,6 @@
   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"> </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/shreyash04/github-readme-stats"><img alt="Shreyash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreyash04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shreyash04/github-readme-stats"><img alt="Shreyash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash04&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=shreyash04">
