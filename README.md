@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> Hello! I'm Shreyash Shinkar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hello! I'm Shreyash <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 * 🧐   I'm interested in learning more about Machine Learning, Data Science and Full Stack development. Fascinated by the concept of Blockchain and excited for its future.
 * 🎓   Pursuing a Bachelors of Engineering in Computer Engineering. FE GPA 9.43/10.0, SE GPA 9.66/10.0.
