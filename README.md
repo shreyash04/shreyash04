@@ -8,11 +8,31 @@
 * 🤝   I’m looking to collaborate on Python projects in the domains Data Science and Machine Learning.
 * 🌱   Keen to learn more about Psychology & Philosophy.
 
+## 🚀 Languages and Tools:
+
 <p align="left"> 
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-  
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-160" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"> </a>
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"> </a>
+  <a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"> </a>
+  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"> </a>
 </p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/shreyash04/github-readme-stats"><img alt="Shreyash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreyash04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shreyash04/github-readme-stats"><img alt="Shreyash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash04&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=shreyash04">
+</a>
+<a href="https://github.com/shreyash04?tab=followers"><img src="https://img.shields.io/github/followers/shreyash04?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--
 **shreyash04/shreyash04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
