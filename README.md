@@ -21,6 +21,13 @@
   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"></a>
 </p>
 
+## 🎨 Other Tools:
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"></a>
+
+</p>
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=shreyash04">
