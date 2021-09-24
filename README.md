@@ -24,7 +24,7 @@
 ## 🎨 Other Tools:
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"></a>
+  <a https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/> </a>
 
 </p>
 
