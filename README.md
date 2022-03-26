@@ -2,10 +2,10 @@
 
 <h1 align="center"> Hello! I'm Shreyash <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-* 🧐  Interested to learn more about Machine Learning, Data Science and Full Stack development. 
-* 🤔  Fascinated by the concept of Blockchain and excited for its future.
-* 🎓  Pursuing Bachelor of Engineering in Computer Engineering. FE GPA 9.43/10.0, SE GPA 9.66/10.0.
-* 💻  Working on creatung my own portfolio website.
+* 🧐  Curious about the domains of Data Science and Machine Learning.
+* 🤔  Fascinated by the Blockchain technology and super excited for its future.
+* 🎓  Pursuing Bachelor of Engineering in Computer Engineering. FE GPA: 9.43/10.0, SE GPA: 9.66/10.0.
+* 💻  Working on creating my own portfolio website.
 * 🤝  Looking to collaborate on Python projects in the domains of Data Science and Machine Learning.
 * 🌱  Keen to learn more about Psychology & Philosophy.
 
