@@ -27,6 +27,7 @@
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"></a>
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"></a>
   <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"></a>
+  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"></a>
 </p>
 
 ## ❤ Views and Followers
@@ -34,6 +35,10 @@
   <img src="https://komarev.com/ghpvc/?username=shreyash04">
 </a>
 <a href="https://github.com/shreyash04?tab=followers"><img src="https://img.shields.io/github/followers/shreyash04?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
+
 
 <!--
 **shreyash04/shreyash04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
