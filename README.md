@@ -4,7 +4,7 @@
 
 * 🧐  Curious about the domains of Data Science and Machine Learning.
 * 🤔  Fascinated by the Blockchain technology and super excited for its future.
-* 🎓  Pursuing Bachelor of Engineering in Computer Engineering. FE GPA: 9.43/10.0, SE GPA: 9.66/10.0.
+* 🎓  Pursuing Bachelor of Engineering in Computer Engineering. GPA: 9.5/10.0
 * 💻  Working on creating my own portfolio website.
 * 🤝  Looking to collaborate on Python projects in the domains of Data Science and Machine Learning.
 * 🌱  Keen to learn more about Psychology & Philosophy.
