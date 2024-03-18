@@ -2,12 +2,13 @@
 
 <h1 align="center"> Hello! I'm Shreyash <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-* 🧐  Curious about the domains of Data Science and Machine Learning.
-* 🤔  Fascinated by the Blockchain technology and super excited for its future.
-* 🎓  Pursuing Bachelor of Engineering in Computer Engineering. GPA: 9.5/10.0
+* 🧐  Inquisitive about Data Engineering, Data Analysis, Data Science, and Machine Learning.
+* 🤔  Fascinated by Artificial Intelligence and LLMs super excited for its future.
+* 🎓  Pursuing an MS in Information Management @University of Illinois at Urbana - Champaign (GPA: 4.0/4.0)
+* 🎓  Completed my Bachelor of Engineering in Computer Engineering @Pune Institute of Computer Technology (GPA: 9.4/10.)
 * 💻  Working on creating my own portfolio website.
-* 🤝  Looking to collaborate on Python projects in the domains of Data Science and Machine Learning.
-* 🌱  Keen to learn more about Psychology & Philosophy.
+* 🤝  Looking to collaborate on projects in the domains of Machine Learning and Artificial Intelligence
+* 🌱  A keen student of Psychology & Philosophy.
 
 ## 🚀 Languages and Tools:
 
