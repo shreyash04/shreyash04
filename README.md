@@ -15,6 +15,7 @@
 <p align="left"> 
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"></a>
   <a href="https://opencv.org" title="OpenCV" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/opencv.png"></a>
+  <br>
   <a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
   <a href="https://www.w3schools.com/css/" title="CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"></a>
   <a href="https://getbootstrap.com" title="Bootstrap" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
