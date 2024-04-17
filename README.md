@@ -7,7 +7,7 @@
 * 🎓  Pursuing an MS in Information Management @University of Illinois at Urbana - Champaign (GPA: 4.0/4.0)
 * 🎓  Completed my Bachelor of Engineering in Computer Engineering @Pune Institute of Computer Technology (GPA: 9.4/10.)
 * 💻  Working on creating my own portfolio website.
-* 🤝  Looking to collaborate on projects in the domains of Machine Learning and Artificial Intelligence
+* 🤝  Looking to collaborate on projects in the domains of Machine Learning Generative AI
 * 🌱  A keen student of Psychology & Philosophy.
 
 ## 🚀 Languages and Tools:
