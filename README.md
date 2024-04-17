@@ -2,12 +2,12 @@
 
 <h1 align="center"> Hello! I'm Shreyash <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-* 🧐  Inquisitive about Data Engineering, Data Analysis, Data Science, and Machine Learning.
-* 🤔  Fascinated by Artificial Intelligence and LLMs super excited for its future.
+* 🧐  Inquisitive about Data Engineering, Data Analysis, Data Science, and Machine Learning - Everything that involves **DATA**
+* 🤔  Fascinated by excited for the future of Blockchain and Artificial Intelligence.
 * 🎓  Pursuing an MS in Information Management @University of Illinois at Urbana - Champaign (GPA: 4.0/4.0)
-* 🎓  Completed my Bachelor of Engineering in Computer Engineering @Pune Institute of Computer Technology (GPA: 9.4/10.)
-* 💻  Working on creating my own portfolio website.
-* 🤝  Looking to collaborate on projects in the domains of Machine Learning Generative AI
+* 🎓  Completed my Bachelor of Engineering in Computer Engineering @Pune Institute of Computer Technology (GPA: 9.15/10.00)
+* 💻  Working on creating my portfolio website.
+* 🤝  Looking to collaborate on projects in the domains of Machine Learning, Generative AI, and LLMs
 * 🌱  A keen student of Psychology & Philosophy.
 
 ## 🚀 Languages and Tools:
