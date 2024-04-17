@@ -38,7 +38,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/shreyash04/github-profile-views-counter">
+<a href="https://github.com/shreyash04">
   <img src="https://komarev.com/ghpvc/?username=shreyash04">
 </a>
 <a href="https://github.com/shreyash04?tab=followers"><img src="https://img.shields.io/github/followers/shreyash04?label=Followers&style=social" alt="GitHub Badge"></a>
