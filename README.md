@@ -15,7 +15,8 @@
 <p align="left"> 
   <a href="https://www.python.org" title="Python" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"></a>
   <a href="https://www.python.org" title="NumPy" target="_blank"><img src="https://github.com/numpy/numpy/blob/main/branding/logo/secondary/numpylogo2.png" width="48" height="48"></a>
-  <a href="https://www.python.org" title="pandas" target="_blank"><img src="https://icons8.com/icon/xSkewUSqtErH/pandas"></a>
+  <a href="https://www.python.org" title="pandas" target="_blank"><img src="https://img.icons8.com/color/48/pandas.png"></a>
+  
   <a href="https://opencv.org" title="OpenCV" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/opencv.png"></a>
   <br>
   <a href="https://www.w3.org/html/" title="HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a>
