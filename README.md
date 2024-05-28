@@ -3,7 +3,7 @@
 <h1 align="center"> Hello! I'm Shreyash <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 * 🧐  Inquisitive about Data Engineering, Data Analysis, Data Science, and Machine Learning - Everything that involves **DATA**
-* 🤔  Fascinated by excited for the future of Blockchain and Artificial Intelligence.
+* 🤔  Fascinated by and excited for the future of Blockchain and Artificial Intelligence.
 * 🎓  Pursuing an MS in Information Management @University of Illinois at Urbana - Champaign (GPA: 4.0/4.0)
 * 🎓  Completed my Bachelor of Engineering in Computer Engineering @Pune Institute of Computer Technology (GPA: 9.15/10.00)
 * 💻  Working on creating my portfolio website.
