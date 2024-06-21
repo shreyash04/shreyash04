@@ -31,10 +31,10 @@
 ## 🎨 Other Tools:
 
 <p align="left">
+  <a href="https://www.figma.com/" title="Figma" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"></a>
   <a href="https://www.adobe.com/in/products/photoshop.html" title="Photoshop" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"></a>
   <a href="https://www.adobe.com/in/products/premiere.html" title="Premiere Pro" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"></a>
   <a href="https://www.adobe.com/in/products/aftereffects.html" title="After Effects" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"></a>
-  <a href="https://www.figma.com/" title="Figma" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"></a>
 </p>
 
 ## ❤ Views and Followers
